@@ -1,8 +1,15 @@
-Esta es la historia de Jean Usma que esta 
-en buscando ser el mejor ´programador  
+Esta es la historia de Freddy Vega
 
-main 1
+Freddy Vega tiene 32 años y nació en Colombia
 
-main 2
+Anita Platzi es una persona que contribuye a este proyecto open source y nació en Internet
 
-mañana nos enfocaremos en su vida laboral
+Experimento 1
+
+Experimento 2
+
+Master 1
+
+Master 2
+
+Mañana nos enfocaremos en su vida laboral
